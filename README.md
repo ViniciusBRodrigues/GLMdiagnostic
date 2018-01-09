@@ -1,4 +1,4 @@
-# GLMdiagnostic
+# GLMdiagnostic (biodata package)
 This package generates the following plots for Generalized Linear Model diagnostics: Q-Q plot, Residuals vs Fitted, Histogram of Residuals and Cook's distance plot.
 
 `Based on functions from RT4BIO package (Original authors: Ronaldo Reis Junior, Gladson Ramon Alves Borges and Magnel Lima de Oliveira. Link: https://www.researchgate.net/publication/282808626_RT4Bio_-_R_Tools_for_Biologists) and sjPlot package (Original authors: Daniel Lüdecke and Carsten Schwemmer).`
